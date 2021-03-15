@@ -25,5 +25,5 @@ Here are some ideas to get you started:
   - MySQL テーブル定義書生成ツール
 - [WSL2-Setup](https://github.com/RyutaKojima/WSL2-Setup)
   - WSL2のディストリビューション初回セットアップ用スクリプト
--[ExifViewer](https://github.com/RyutaKojima/ExifViewer)
+- [ExifViewer](https://github.com/RyutaKojima/ExifViewer)
   - Exif情報確認アプリ
