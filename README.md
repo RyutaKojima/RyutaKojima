@@ -17,25 +17,13 @@ Here are some ideas to get you started:
 
 ### Products
 
-[simpleGestures](https://github.com/RyutaKojima/simpleGestures)
-> GoogleChrome extension
-
----
-
-[FuelPHP support](https://github.com/RyutaKojima/idea-php-fuelphp-plugin)
-> PhpStorm Plugin
-
----
-
-[MySQLSchemaDoc](https://github.com/RyutaKojima/MySQLSchemaDoc)
-> MySQL テーブル定義書生成ツール
-
----
-
-[WSL2-Setup](https://github.com/RyutaKojima/WSL2-Setup)
-> WSL2のディストリビューション初回セットアップ用スクリプト
-
----
-
-[ExifViewer](https://github.com/RyutaKojima/ExifViewer)
-> Exif情報確認アプリ
+- [simpleGestures](https://github.com/RyutaKojima/simpleGestures)
+  - GoogleChrome extension
+- [FuelPHP support](https://github.com/RyutaKojima/idea-php-fuelphp-plugin)
+  - PhpStorm Plugin
+- [MySQLSchemaDoc](https://github.com/RyutaKojima/MySQLSchemaDoc)
+  - MySQL テーブル定義書生成ツール
+- [WSL2-Setup](https://github.com/RyutaKojima/WSL2-Setup)
+  - WSL2のディストリビューション初回セットアップ用スクリプト
+-[ExifViewer](https://github.com/RyutaKojima/ExifViewer)
+  - Exif情報確認アプリ
