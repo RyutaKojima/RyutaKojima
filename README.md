@@ -17,11 +17,14 @@ Here are some ideas to get you started:
 
 ### Products
 
-- Plugins/Extensions
-  - [simpleGestures](https://github.com/RyutaKojima/simpleGestures)
-    - GoogleChrome extension
+- Plugins
   - [FuelPHP support](https://github.com/RyutaKojima/idea-php-fuelphp-plugin)
     - PhpStorm Plugin
+- Extensions
+  - [simpleGestures](https://github.com/RyutaKojima/simpleGestures)
+    - マウスジェスチャ機能を提供するGoogle拡張
+  - [UniposClapStorm](https://github.com/RyutaKojima/unipos-clap-storm-chrome-extension)
+    - https://unipos.me の拍手を回数指定で実行できるようにするGoogle拡張機能
 - Web Apps
   - [ExifViewer](https://github.com/RyutaKojima/ExifViewer)
     - Exif情報確認アプリ
