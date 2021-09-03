@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   - [UniposClapStorm](https://github.com/RyutaKojima/unipos-clap-storm-chrome-extension)
     - https://unipos.me の拍手を回数指定で実行できるようにするGoogle拡張機能
 - Web Apps
+  - [MailViewer](https://github.com/RyutaKojima/mail-viewer-app)
+    - メールデータ(.eml)ビューア
   - [ExifViewer](https://github.com/RyutaKojima/ExifViewer)
     - Exif情報確認アプリ
 - Tools
