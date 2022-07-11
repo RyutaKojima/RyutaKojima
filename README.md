@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### My Products
 
 - Plugins
-  - FuelPHP support [code](https://github.com/RyutaKojima/idea-php-fuelphp-plugin)
+  - FuelPHP support [app](https://plugins.jetbrains.com/plugin/13534-fuelphp-support) [code](https://github.com/RyutaKojima/idea-php-fuelphp-plugin)
     - PhpStorm Plugin
 - Extensions
   - simpleGestures [app](https://chrome.google.com/webstore/detail/simplegestures/flfminafiamnggnldfpilnfnmbgmiegn) [code](https://github.com/RyutaKojima/simpleGestures)
