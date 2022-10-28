@@ -28,6 +28,8 @@ Here are some ideas to get you started:
     - メールデータ(.eml)ビューア
   - ExifViewer [app](https://ryutakojima.github.io/ExifViewer/), [code](https://github.com/RyutaKojima/ExifViewer)
     - Exif情報確認アプリ
+  - PdfViewer [app](https://pdf-view-app.vercel.app/), [code](https://github.com/RyutaKojima/pdf-view-app)
+    - PDFブラウザビューア
 - Tools
   - MySQLSchemaDoc [code](https://github.com/RyutaKojima/MySQLSchemaDoc)
     - MySQL テーブル定義書生成ツール
