@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 - Tools
   - MySQLSchemaDoc [code](https://github.com/RyutaKojima/MySQLSchemaDoc)
     - MySQL テーブル定義書生成ツール
-  - WSL2-Setup [code](https://github.com/RyutaKojima/WSL2-Setup)
-    - WSL2のディストリビューション初回セットアップ用スクリプト
 - Setup
   - dotfiles [code](https://github.com/RyutaKojima/dotfiles)
     - 端末セットアップ用設定ファイル＆スクリプト
+  - WSL2-Setup [code](https://github.com/RyutaKojima/WSL2-Setup)
+    - WSL2のディストリビューション初回セットアップ用スクリプト
